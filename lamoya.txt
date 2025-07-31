@@ -1,1 +1,2 @@
 Hello from Lamoya!
+Git is challenging!
