@@ -1,1 +1,3 @@
 Hello from Olena
+Hello pushed from terminal to GitHub
+
