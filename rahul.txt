@@ -1,8 +1,12 @@
 Lets see if this works!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi Rahul - my name is Lindsay. 
 This stuff is really complicated lol! Best of luck in the course :)
 =======
 2nd attempt
 pulled successfully! wohoo
->>>>>>> cc5904e13e3bc792ba61cadf78fc2b926d9dc9e2
+=======
+2nd attempt
+pulled successfully! wohoo
+
