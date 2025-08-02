@@ -1,1 +1,1 @@
-Hello :)
+Hello :) Today is Aug, 8.
