@@ -3,6 +3,8 @@ Lets see if this works!
 <<<<<<< HEAD
 Hi Rahul - my name is Lindsay. 
 This stuff is really complicated lol! Best of luck in the course :)
+
+Thanks! And wish you the same :)
 =======
 2nd attempt
 pulled successfully! wohoo
